@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+local.properties
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK files
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+LT_android/backend_api/androidstudio-8fc98-58f15cd3db00.json
